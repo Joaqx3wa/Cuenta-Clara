@@ -11,6 +11,8 @@
 5. Agenda pagos. **Registrar pago** crea su gasto automáticamente; no lo registres otra vez.
 6. En **Ajustes**, exporta una copia JSON con regularidad. Puedes importarla en otro navegador o dispositivo.
 
+En **Presupuesto → Nueva categoría**, crea tus propias categorías y, si quieres, asigna un importe para el mes elegido. Quedan disponibles en gastos y pagos, se guardan en el navegador y se incluyen en las copias de seguridad. Al crear una categoría se conservan los importes que estuvieras editando en el presupuesto.
+
 **Ejemplo** permite explorar datos ficticios sin modificar el espacio personal. Cada navegador y perfil tiene sus propios datos. Usar el mismo perfil del mismo navegador comparte el registro. No hay sincronización automática entre dispositivos. Borrar los datos del sitio o usar modo privado puede eliminar el registro local.
 
 ## Qué se calcula
